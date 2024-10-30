@@ -1,7 +1,7 @@
 
-# Configuração do Ambiente Virtual para execução da automação de testes do PDV
+# Oráculo - Projeto base para o Innovation 2024
 
-Esse é um projeto base que será utilizado em aplicações de integração de CHAT + IA para análise de arquivos PDF, CSV, Videos e Sites.
+Esse é um projeto base que será utilizado em aplicações de integração de CHAT + IA para análise de arquivos PDF, CSV, Videos e Sites e integração com modelos da OpenAI e Groq.
 
 ## Pré-requisitos
 ---
